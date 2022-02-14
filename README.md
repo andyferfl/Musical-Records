@@ -10,6 +10,10 @@ Cистема для автоматизации работы магазина м
 На данный момент проект рабочий но в процессе refactoring на MVVM чтобы было проще поддерживать и тестировать.
 Still in work.
 
+## Архитектурная диаграмма (Context diagram)
+
+![image](https://user-images.githubusercontent.com/67875573/153847514-eb85d020-72b8-4b17-b872-4fcc1f48759d.png)
+
 ## Схема базы данных
 
 ![image](https://user-images.githubusercontent.com/67875573/151058551-a6cc3605-25e3-4961-a5ca-55df975db08c.png)
